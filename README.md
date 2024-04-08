@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome😊&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20is%20Kyungwon's%20Github%20nice%20to%20meet%20you!&descAlignY=60&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome😊&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20is%20Kyungwon's%20Github.%20Nice%20to%20meet%20you!&descAlignY=60&descAlign=62"/>
 </p>
 
 ## 💁 Personal Information
