@@ -50,9 +50,8 @@
 
 ## Stats
 
-![Kyungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingBong1999&theme=default&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingBong1999&layout=compact)
+![Kyungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingBong1999&theme=default&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingBong1999)
 
 
 <!--
